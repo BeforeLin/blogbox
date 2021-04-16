@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="https://beforelin.github.io/blogbox/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://beforelin.github.io/blogbox/"/>
   <updated>2021-04-15T14:46:29.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://beforelin.github.io/blogbox/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2021/04/15/hello-world/"/>
-    <id>http://yoursite.com/2021/04/15/hello-world/</id>
+    <link href="https://beforelin.github.io/blogbox/2021/04/15/hello-world/"/>
+    <id>https://beforelin.github.io/blogbox/2021/04/15/hello-world/</id>
     <published>2021-04-15T14:46:29.000Z</published>
     <updated>2021-04-15T14:46:29.000Z</updated>
     
