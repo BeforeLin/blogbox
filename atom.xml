@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>山海清和</title>
   
   
   <link href="https://beforelin.github.io/blogbox/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://beforelin.github.io/blogbox/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>BeforeLin</name>
     
   </author>
   
