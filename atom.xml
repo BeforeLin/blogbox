@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://blogbox-beforelin.vercel.app/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
   
-  <link href="https://blogbox-beforelin.vercel.app/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2021-04-15T14:46:29.000Z</updated>
-  <id>https://blogbox-beforelin.vercel.app/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blogbox-beforelin.vercel.app/2021/04/15/hello-world/"/>
-    <id>https://blogbox-beforelin.vercel.app/2021/04/15/hello-world/</id>
+    <link href="http://yoursite.com/2021/04/15/hello-world/"/>
+    <id>http://yoursite.com/2021/04/15/hello-world/</id>
     <published>2021-04-15T14:46:29.000Z</published>
     <updated>2021-04-15T14:46:29.000Z</updated>
     
